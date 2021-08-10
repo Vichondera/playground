@@ -5,4 +5,5 @@ name = Nedka
 name = Stoyan
 last_name = "Blagoeva"
 const username = "stelko0"
+bool isValid = name.All(Char.IsLetter) && namee.Length > 4;
 
